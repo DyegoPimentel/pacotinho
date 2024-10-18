@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "5d648ea722c8cfe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e92e1c661a154c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "649289d7d6d2d2f8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Design System.canvas",
+                "viewState": {
+                  "x": 963.1949195074228,
+                  "y": 31.55952798981644,
+                  "zoom": -0.7822916844983889
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Design System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4e46e7cf9aff1aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "60b66e38e64516a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b9d725e1c6ca1c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9b7252cafc7c91dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "10decc2bde224a9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4ca52ef24e32aee",
+    "type": "split",
+    "children": [
+      {
+        "id": "5853fa023f179d8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87fc9ba645a518b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design System.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Design System"
+            }
+          },
+          {
+            "id": "a35dbac69f7d3679",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Design System.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Design System"
+            }
+          },
+          {
+            "id": "1a0f59f06f7026f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51737f20a898e6fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Design System.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Design System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "649289d7d6d2d2f8",
+  "lastOpenFiles": [
+    "PACOTINHO.md",
+    "Design System.canvas",
+    "Untitled.md"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"accf0c7378f660f8","x":-475,"y":-80,"width":285,"height":240,"color":"4","type":"text","text":"DOMÍNIO (www.pacotinho.com\n\nhttps://registro.br/\nhttps://www.godaddy.com/\nhttps://hostinger.com.br?REFERRALCODE=1DYEGO40"},
+		{"id":"2c46877f581699af","x":160,"y":-90,"width":250,"height":70,"type":"text","text":"IP FICTICIO: 192.1.1.\nonde usuário acessa o site"},
+		{"id":"831e7f91afe90f9e","type":"text","text":"HOSPEDAGEM+BANCO DE DADOS (firebase)","x":143,"y":100,"width":285,"height":100},
+		{"id":"5f532d0d52caa85c","x":161,"y":280,"width":250,"height":224,"type":"text","text":"- CODIGO DO SITE\n- ASSETS(audio, imagem, video)\n- sistema de login\n- banco de dados\n- "},
+		{"id":"59277e1e3e87b155","x":-475,"y":-320,"width":885,"height":100,"color":"6","type":"text","text":"DESIGN \n\nhttps://github.com/DyegoPimentel/pacotinho"},
+		{"id":"3f12c2f0b08dc5a5","x":813,"y":250,"width":250,"height":60,"type":"text","text":"VERSÃO: DESENVOLVIMENTO"},
+		{"id":"86cdd0f0265ada43","type":"text","text":"VERSÃO: PRODUÇÃO (main)","x":1040,"y":444,"width":250,"height":60},
+		{"id":"2f42370a4050b885","type":"text","text":"REDIRECIONAR","x":-100,"y":-80,"width":200,"height":70},
+		{"id":"b7ce849f47f82988","type":"text","text":"DEPLOY AUTOMATICO (GITHUB ACTIONS)","x":716,"y":540,"width":250,"height":80},
+		{"id":"ef9321392f7b92f6","type":"text","text":"GITHUB (REPOSITÓRIO DO CÓDIGO \nhttps://github.com/DyegoPimentel/pacotinho","x":966,"y":20,"width":250,"height":130},
+		{"id":"bc131430e598567d","type":"text","text":"FLUXO DE DESENVOLVIMENTO\n","x":621,"y":-560,"width":885,"height":100,"color":"6"},
+		{"id":"dfaafc773ab0784e","type":"text","text":"DESEVOLVIMENTO (VS CODE)","x":1069,"y":-350,"width":295,"height":80},
+		{"id":"b36c3862e0e831e4","x":621,"y":-400,"width":250,"height":260,"type":"text","text":"PRÉ REQUISITOS\n\n- https://git-scm.com/downloads\n- VS CODE"}
+	],
+	"edges":[
+		{"id":"2bec1da6971905c8","fromNode":"831e7f91afe90f9e","fromSide":"top","toNode":"2c46877f581699af","toSide":"bottom"},
+		{"id":"9f844ab93ef70874","fromNode":"accf0c7378f660f8","fromSide":"right","toNode":"2f42370a4050b885","toSide":"left"},
+		{"id":"c4286a92e75950e8","fromNode":"2f42370a4050b885","fromSide":"right","toNode":"2c46877f581699af","toSide":"left"},
+		{"id":"ede577e537bb221c","fromNode":"831e7f91afe90f9e","fromSide":"bottom","toNode":"5f532d0d52caa85c","toSide":"top"},
+		{"id":"a7970e29729ac580","fromNode":"ef9321392f7b92f6","fromSide":"bottom","toNode":"3f12c2f0b08dc5a5","toSide":"top"},
+		{"id":"6af044bfb6973d19","fromNode":"ef9321392f7b92f6","fromSide":"bottom","toNode":"86cdd0f0265ada43","toSide":"top"},
+		{"id":"e73ecda091f62c28","fromNode":"dfaafc773ab0784e","fromSide":"bottom","toNode":"ef9321392f7b92f6","toSide":"top"},
+		{"id":"5849906b74fd94c2","fromNode":"86cdd0f0265ada43","fromSide":"bottom","toNode":"b7ce849f47f82988","toSide":"right","color":"2"},
+		{"id":"f40116228c7c2df9","fromNode":"b7ce849f47f82988","fromSide":"left","toNode":"831e7f91afe90f9e","toSide":"right","color":"2"}
+	]
+}
